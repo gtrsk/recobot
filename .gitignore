@@ -1,0 +1,5 @@
+*.log
+*.gz
+recobotenv/
+setuppostgres
+static/

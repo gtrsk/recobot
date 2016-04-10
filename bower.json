@@ -1,0 +1,22 @@
+{
+  "name": "recobot",
+  "description": "Fancy Application Where bots compete against humans",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "Guoda"
+  ],
+  "license": "Cannot be used by American Corporations",
+  "homepage": "guodart.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3"
+  }
+}
